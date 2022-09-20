@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\bin\Debug\Multiplicasion get y set.exe.config
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\bin\Debug\Multiplicasion get y set.exe
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\bin\Debug\Multiplicasion get y set.pdb
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion_get_y_set.Form1.resources
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion_get_y_set.Properties.Resources.resources
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.exe
+C:\Users\emili\source\repos\Multiplicasion get y set\Multiplicasion get y set\obj\Debug\Multiplicasion get y set.pdb
